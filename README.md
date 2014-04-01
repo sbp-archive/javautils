@@ -1,4 +1,4 @@
-sbp_javautils
+javautils
 =============
 
 Schuberg Philis Java Utilities
