@@ -1,0 +1,17 @@
+# Eclipse
+.classpath
+.project
+.settings
+.launch
+
+# Maven
+*target*
+
+# Binaries
+*.jar
+*.war
+*.ear
+*.class
+
+# Other
+/.checkstyle
